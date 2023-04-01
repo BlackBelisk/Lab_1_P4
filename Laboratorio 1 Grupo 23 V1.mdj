@@ -4546,9 +4546,9 @@
 										"$ref": "AAAAAAGHLnIDo18HkSo="
 									},
 									"font": "Arial;13;0",
-									"left": 796,
+									"left": 790,
 									"top": 371,
-									"width": 133,
+									"width": 145,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -4556,7 +4556,7 @@
 										"$ref": "AAAAAAGHLnIDpF8Lrvw="
 									},
 									"edgePosition": 1,
-									"text": "ejercicios completados"
+									"text": "ejercicios completados >"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -5094,9 +5094,9 @@
 										"$ref": "AAAAAAGHLoxE2HzZCsE="
 									},
 									"font": "Arial;13;0",
-									"left": 761,
+									"left": 758,
 									"top": 306,
-									"width": 86.35986328125,
+									"width": 92,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -5104,7 +5104,7 @@
 										"$ref": "AAAAAAGHLoxE2XzdVwM="
 									},
 									"edgePosition": 1,
-									"text": "leccion actual"
+									"text": "leccion actual >"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -6363,7 +6363,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHLhwrHqK2vZM="
 							},
-							"name": "ejercicios completados",
+							"name": "ejercicios completados >",
 							"end1": {
 								"_type": "UMLAssociationEnd",
 								"_id": "AAAAAAGHLnIDo18I98k=",
@@ -6393,7 +6393,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHLhwrHqK2vZM="
 							},
-							"name": "leccion actual",
+							"name": "leccion actual >",
 							"end1": {
 								"_type": "UMLAssociationEnd",
 								"_id": "AAAAAAGHLoxE2HzaOdA=",
