@@ -1,0 +1,20 @@
+Unicidad de atributos:
+	- El atributo nick identifica una instancia de Usuario.
+	- El atributo nomCurso identifica una instancia de Curso.
+	- El atributo nombre identifica una instancia de Idioma.
+	- El atributo enunciado identifica una instancia de Ejercicio.
+
+Dominio de atributos:
+	- El atributo contra de una clase Usuario tiene por lo menos 6 caracteres.
+
+Integridad circular:
+	- Un curso no puede ser previa de sí mismo.
+	- Para toda instancia C de Curso asociada a una instancia I de Idioma y otra instancia P de Profesor, se cumple que I está asociada a P.
+
+Atributos calculados:
+
+
+Reglas de negocios:
+	- Para toda instancia E de Estudiante e instancia C de curso, se cumple que E está inscripto en C si y solo si E completó todas las previas de C.
+	- Para acceder a la lección X con X mayor o igual a 1 y menor o igual a la cantidad de lecciones de un curso dado, debe haberse completado la lección X-1.
+	- - Una lección se da por completada cuando todos los ejercicios de la misma están marcados como completados.

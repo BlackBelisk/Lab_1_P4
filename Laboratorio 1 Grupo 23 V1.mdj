@@ -1949,7 +1949,7 @@
 											"top": 120,
 											"width": 88,
 											"height": 13,
-											"text": "idioma: string",
+											"text": "nombre: string",
 											"horizontalAlignment": 0
 										}
 									],
@@ -5367,9 +5367,9 @@
 										"$ref": "AAAAAAGHPVp0HlEnl0o="
 									},
 									"font": "Arial;13;0",
-									"left": 666,
+									"left": 662,
 									"top": 105,
-									"width": 65,
+									"width": 72,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -5377,7 +5377,7 @@
 										"$ref": "AAAAAAGHPVp0HlErCUU="
 									},
 									"edgePosition": 1,
-									"text": "previetura"
+									"text": "previas"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -6015,7 +6015,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHLdFD8z3fS7M="
 							},
-							"name": "previetura",
+							"name": "previas",
 							"end1": {
 								"_type": "UMLAssociationEnd",
 								"_id": "AAAAAAGHPVp0HlEow80=",
@@ -6240,7 +6240,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHLfwWDoXg/CM="
 							},
-							"name": "idioma",
+							"name": "nombre",
 							"type": "string"
 						}
 					]
