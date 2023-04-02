@@ -2582,6 +2582,7 @@
 									"model": {
 										"$ref": "AAAAAAGHLhP54Ix5DmA="
 									},
+									"visible": false,
 									"font": "Arial;13;0",
 									"left": 447,
 									"top": 264,
@@ -5762,7 +5763,6 @@
 							"_parent": {
 								"$ref": "AAAAAAGHLbkATDuVhxE="
 							},
-							"name": "da >",
 							"ownedElements": [
 								{
 									"_type": "UMLConstraint",
